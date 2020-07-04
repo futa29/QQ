@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C3C4FD26-D244-45C8-BA18-C87626A8E300"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89A88A32-1354-4317-B58B-065F7D0D1353"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QQ/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8851FC1F-48EE-4AC2-BB0C-173832AD2121"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QQ/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "8851FC1F-48EE-4AC2-BB0C-173832AD2121 - 896830d2e5353e18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QQ.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; QQ.ViewController"
+                  moduleName = "QQ"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tani/Desktop/MyApp/my%20app/QQ/QQ/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "397">
+               </Location>
+               <Location
+                  uuid = "8851FC1F-48EE-4AC2-BB0C-173832AD2121 - 22e5024087dfed31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QQ.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;QQ.ViewController&gt;"
+                  moduleName = "QQ"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tani/Desktop/MyApp/my%20app/QQ/QQ/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "338">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66741E07-BE43-4C3A-B36B-EC68E057F033"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QQ/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "66741E07-BE43-4C3A-B36B-EC68E057F033 - 28ad279104214d4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QQ.ViewController.answer.getter : Swift.Int"
+                  moduleName = "QQ"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tani/Desktop/MyApp/my%20app/QQ/QQ/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "66741E07-BE43-4C3A-B36B-EC68E057F033 - c30850d029679946"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QQ.ViewController.answer.setter : Swift.Int"
+                  moduleName = "QQ"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tani/Desktop/MyApp/my%20app/QQ/QQ/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "118">
+               </Location>
+               <Location
+                  uuid = "66741E07-BE43-4C3A-B36B-EC68E057F033 - 32042cad318c0655"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QQ.ViewController.answer.modify : Swift.Int"
+                  moduleName = "QQ"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tani/Desktop/MyApp/my%20app/QQ/QQ/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "66741E07-BE43-4C3A-B36B-EC68E057F033 - ffe824b46045e846"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QQ.ViewController.answer.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "QQ"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tani/Desktop/MyApp/my%20app/QQ/QQ/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "66741E07-BE43-4C3A-B36B-EC68E057F033 - 896830d2e5353e18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QQ.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; QQ.ViewController"
+                  moduleName = "QQ"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tani/Desktop/MyApp/my%20app/QQ/QQ/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "397">
+               </Location>
+               <Location
+                  uuid = "66741E07-BE43-4C3A-B36B-EC68E057F033 - 22e5024087dfed31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QQ.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;QQ.ViewController&gt;"
+                  moduleName = "QQ"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tani/Desktop/MyApp/my%20app/QQ/QQ/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "338">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42C3BBC4-A5F0-417F-96B7-7D029C285872"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QQ/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "42C3BBC4-A5F0-417F-96B7-7D029C285872 - cbbed6e10cbac5e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QQ.ViewController.problemArray.getter : __C.NSMutableArray"
+                  moduleName = "QQ"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tani/Desktop/MyApp/my%20app/QQ/QQ/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "42C3BBC4-A5F0-417F-96B7-7D029C285872 - 2ee5a804e3770de4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QQ.ViewController.problemArray.setter : __C.NSMutableArray"
+                  moduleName = "QQ"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tani/Desktop/MyApp/my%20app/QQ/QQ/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "42C3BBC4-A5F0-417F-96B7-7D029C285872 - 66a834dd8f96bbeb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QQ.ViewController.problemArray.modify : __C.NSMutableArray"
+                  moduleName = "QQ"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tani/Desktop/MyApp/my%20app/QQ/QQ/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "42C3BBC4-A5F0-417F-96B7-7D029C285872 - df27f0a8f347d3e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QQ.ViewController.problemArray.modify : __C.NSMutableArray with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "QQ"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tani/Desktop/MyApp/my%20app/QQ/QQ/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "42C3BBC4-A5F0-417F-96B7-7D029C285872 - 896830d2e5353e18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QQ.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; QQ.ViewController"
+                  moduleName = "QQ"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tani/Desktop/MyApp/my%20app/QQ/QQ/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "2094">
+               </Location>
+               <Location
+                  uuid = "42C3BBC4-A5F0-417F-96B7-7D029C285872 - 22e5024087dfed31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QQ.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;QQ.ViewController&gt;"
+                  moduleName = "QQ"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tani/Desktop/MyApp/my%20app/QQ/QQ/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "2023">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
